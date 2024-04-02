@@ -13,7 +13,7 @@
     "minimum-stability": "dev",
     "require": {
         "fourkitchens/sous-content-types": "dev-main",
-        "fourkitchens/sous_paragraph_types": "dev-main",
+        "fourkitchens/sous-paragraph-types": "dev-main",
         "drupal/paragraphs_features": "^2.0@beta"
     }
 }
