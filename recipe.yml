@@ -8,7 +8,6 @@ install:
   - paragraphs_features
 config:
   import:
-    field_states_ui: '*'
     paragraphs_ee: '*'
     paragraphs_features: '*'
   actions:
@@ -42,11 +41,6 @@ config:
               delete_confirmation: true
               show_drag_and_drop: true
               show_collapse_all: true
-            field_states_ui:
-              form:
-                type: ''
-                list: ''
-                add: Add
             paragraphs_ee:
               paragraphs_ee:
                 dialog_off_canvas: false
